@@ -1,3 +1,5 @@
+Follow the account [@claudeglasses](https://twitter.com/claudeglasses)
+
 **SCHEMA-tweets** is a tiny script designed to run as a cron job. 
 It's only purpose is to post triptychs of landscape photos generated
 with Nvidia's [styleGAN2](https://github.com/NVlabs/stylegan2).
