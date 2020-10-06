@@ -1,2 +1,4 @@
 /app.log
 /.env
+/data/post_order.pkl
+/data/post_order_original.pkl
